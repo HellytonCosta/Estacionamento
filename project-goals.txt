@@ -1,0 +1,18 @@
+ESTACIONAMENTO - PARKING
+
+Develop a program to do the following steps:
+1 - Take the initial parking price;
+2 - Take the price per hour;
+3 - Display the menu: 
+    1 - Cadastrar veículo
+    2 - Remover veículo
+    3 - Listar veículos
+    4 - Encerrar
+4 - If some vehicle would be removed, the program has to calculate the
+    total value to be payed.
+
+
+Post it on GitHub and submit to the exercise page on Dio.me.
+
+
+
